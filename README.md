@@ -5,6 +5,28 @@ Portifolio do Designer
 
 O controle das tarefas desse projeto será realizado no GitHub.
 
+## 14/05 ícones
+
+:package: nova funcionalidade
+:up: atualização
+:beatle: correção de bugs
+:checkered_flag: release
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Anotações
 
 A ideia é inicialmente montar um portifólio com os meus projetos, com o intuito de abrir comissões de Design (Logotipos, Catálogos, Banners e etc), Ilustrações (Artes de OC, Fanart, Emotes e afins), e serviços para redes sociais (Criar Efeitos para Instagram e Páginas Temáticas).
@@ -33,11 +55,12 @@ Separado em dois tópicos:
 
 ## Contato
 Colocarei minhas redes sociais:
-Instagram, Twitter, Git Hub e WhatsApp.
+Linkedin. Instagram, Twitter, Git Hub e WhatsApp.
 
 
 ## Ideias secundárias
 Fazer outro portifólio me apresentando como Desenvolvedor Web.
 A ideia deste portifólio totalmente separado é apresentar para empresas que estiverem recrutando algum desenvolvedor Front End. 
 Resumindo, seria para um perfil focado apenas em desenvolvimento web.
+<Front-End: HTML e CSS, JS, React + Node, Java, Git e Git Hub>
 
