@@ -1,4 +1,5 @@
 # portifolio
+
 Portifolio do Designer
 
 ## Tarefas 
@@ -7,24 +8,10 @@ O controle das tarefas desse projeto será realizado no GitHub.
 
 ## 14/05 ícones
 
-:package: nova funcionalidade
-:up: atualização
-:beatle: correção de bugs
-:checkered_flag: release
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- :package: nova funcionalidade
+- :up: atualização
+- :beetle: correção de bugs
+- :checkered_flag: release
 
 
 ## Anotações
